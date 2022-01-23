@@ -15,7 +15,7 @@ todoForm.addEventListener('submit', e =>{
     if(newTodo.length){
         addTodo(newTodo);
     }
-    todoForm.reset();
+    // todoForm.reset();
 });
 
 //delete todo
