@@ -1,5 +1,5 @@
 # Todo-app
-A todo webapp using html, css, javascript
+A todo webapp using html, css, javascript.
 
 ## Note:
  ### You can find the source code in master branch
